@@ -1,0 +1,9 @@
+Building XrayCoin
+
+See doc/readme-qt.rst for instructions on building XrayCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of XrayCoin.
+
+See doc/build-*.txt for instructions on building xraycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of XrayCoin.

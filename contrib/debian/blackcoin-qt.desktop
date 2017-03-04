@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=XrayCoin
+Comment=XrayCoin P2P Cryptocurrency
+Comment[fr]=XrayCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=XrayCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/xraycoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/xraycoin;
+Categories=Office;

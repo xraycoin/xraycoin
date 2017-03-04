@@ -1,0 +1,2 @@
+debian/bin/xraycoind usr/bin
+src/xraycoind usr/lib/xraycoin

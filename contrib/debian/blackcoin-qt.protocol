@@ -1,0 +1,11 @@
+[Protocol]
+exec=xraycoin-qt '%u'
+protocol=xraycoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
